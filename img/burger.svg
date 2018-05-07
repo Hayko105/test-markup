@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>list icon on@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="05-каталог-список" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-259.000000, -304.000000)">
+        <g id="list-icon-on" transform="translate(259.000000, 304.000000)">
+            <rect id="Rectangle-2" fill="#ffffff" x="0" y="0" width="46" height="46" rx="3"></rect>
+            <path d="M12,13 L34,13 L34,16 L12,16 L12,13 Z M12,19 L34,19 L34,22 L12,22 L12,19 Z M12,25 L34,25 L34,28 L12,28 L12,25 Z M12,31 L34,31 L34,34 L12,34 L12,31 Z" id="Combined-Shape" fill="#000000"></path>
+        </g>
+    </g>
+</svg>
